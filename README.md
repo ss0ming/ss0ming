@@ -19,3 +19,7 @@
   <img src="https://img.shields.io/badge/SpringBoot-success?style=for-the-badge&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/ss0ming?pet-id=595551702151356879" width="1000" height="300"/>
+</a>
