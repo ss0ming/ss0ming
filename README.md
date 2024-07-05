@@ -20,6 +20,8 @@
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
 
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hee9920)](https://solved.ac/hee9920/)
+
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/ss0ming?pet-id=595551702151356879" width="1000" height="300"/>
 </a>
